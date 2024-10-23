@@ -11,8 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/bassssittttt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bassssittttt" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/basit manzoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="basit manzoor" height="30" width="40" /></a>
+<a href="https://x.com/basssitttttt/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bassssittttt" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/basit-manzoor-676233223/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="basit manzoor" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/basitbz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="basitbz" height="30" width="40" /></a>
 </p>
 
